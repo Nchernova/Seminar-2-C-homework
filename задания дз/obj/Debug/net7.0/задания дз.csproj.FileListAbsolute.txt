@@ -1,0 +1,15 @@
+C:\Users\ZEN\Desktop\ДЗ C 2 семинар\задания дз\bin\Debug\net7.0\задания дз.exe
+C:\Users\ZEN\Desktop\ДЗ C 2 семинар\задания дз\bin\Debug\net7.0\задания дз.deps.json
+C:\Users\ZEN\Desktop\ДЗ C 2 семинар\задания дз\bin\Debug\net7.0\задания дз.runtimeconfig.json
+C:\Users\ZEN\Desktop\ДЗ C 2 семинар\задания дз\bin\Debug\net7.0\задания дз.dll
+C:\Users\ZEN\Desktop\ДЗ C 2 семинар\задания дз\bin\Debug\net7.0\задания дз.pdb
+C:\Users\ZEN\Desktop\ДЗ C 2 семинар\задания дз\obj\Debug\net7.0\задания дз.csproj.AssemblyReference.cache
+C:\Users\ZEN\Desktop\ДЗ C 2 семинар\задания дз\obj\Debug\net7.0\задания дз.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZEN\Desktop\ДЗ C 2 семинар\задания дз\obj\Debug\net7.0\задания дз.AssemblyInfoInputs.cache
+C:\Users\ZEN\Desktop\ДЗ C 2 семинар\задания дз\obj\Debug\net7.0\задания дз.AssemblyInfo.cs
+C:\Users\ZEN\Desktop\ДЗ C 2 семинар\задания дз\obj\Debug\net7.0\задания дз.csproj.CoreCompileInputs.cache
+C:\Users\ZEN\Desktop\ДЗ C 2 семинар\задания дз\obj\Debug\net7.0\задания дз.dll
+C:\Users\ZEN\Desktop\ДЗ C 2 семинар\задания дз\obj\Debug\net7.0\refint\задания дз.dll
+C:\Users\ZEN\Desktop\ДЗ C 2 семинар\задания дз\obj\Debug\net7.0\задания дз.pdb
+C:\Users\ZEN\Desktop\ДЗ C 2 семинар\задания дз\obj\Debug\net7.0\задания дз.genruntimeconfig.cache
+C:\Users\ZEN\Desktop\ДЗ C 2 семинар\задания дз\obj\Debug\net7.0\ref\задания дз.dll
